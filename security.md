@@ -14,7 +14,7 @@ AI safety, application security, jailbreaks, vulnerabilities, governance, and de
 ---
 
 ### [10 Security Tools Every Vibe Coder Should Use](https://x.com/tolyadv/status/2066040470044651583?s=46&t=S6bS_CZIYDGLEWXWpy1JaA)
-*Shared by jonahsd · June 14, 2026 · #vibe-coding #security #developer-tools #ai-coding*
+*Shared by Shepard Power · June 14, 2026 · #vibe-coding #security #developer-tools #ai-coding*
 <!-- 2026-06-14 -->
 > X-linked article highlighting security tools and common vulnerability risks in vibe-coded projects.
 
