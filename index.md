@@ -1,32 +1,38 @@
-# Group Think Tank — Resource Base
+# Group Think Resources
 
-Public index of useful links, tools, papers, videos, and references shared by the Group Think Tank community.
+A public, low-friction AI resource base curated from the Group Think Tank Discord.
 
-**How to use this:** browse by latest resources below, or jump into a tag page.
+This site is built to be easy for humans to read, easy for search engines to index, and structured enough for future agents to use as context. The working ledger stays separate; the category pages below are the approved, published layer.
 
-## Tags
-
-[agent-loops](tags/agent-loops.md), [ai-agents](tags/ai-agents.md), [ai-coding](tags/ai-coding.md), [ai-safety](tags/ai-safety.md), [animation](tags/animation.md), [anthropic](tags/anthropic.md), [claude-code](tags/claude-code.md), [creative-tools](tags/creative-tools.md), [cro](tags/cro.md), [developer-tools](tags/developer-tools.md), [education](tags/education.md), [frontend](tags/frontend.md), [growth](tags/growth.md), [hermes](tags/hermes.md), [jailbreaks](tags/jailbreaks.md), [javascript](tags/javascript.md), [llm-agents](tags/llm-agents.md), [llm-security](tags/llm-security.md), [loop-engineering](tags/loop-engineering.md), [marketing](tags/marketing.md), [model-releases](tags/model-releases.md), [paper](tags/paper.md), [prompting](tags/prompting.md), [react](tags/react.md), [research](tags/research.md), [security](tags/security.md), [seo](tags/seo.md), [vibe-coding](tags/vibe-coding.md), [web-design](tags/web-design.md), [youtube](tags/youtube.md)
-
-## Latest resources
+## Recently Added
 
 - **[WTF Is an "AI Agent Loop"? Genius or Hype?](https://youtu.be/7clJ8IH784Q?si=EmRjZQQPI_9t4dtp)** — YouTube explainer on AI agent loops, useful for separating practical agent workflow patterns from hype.  
-  _Shared 2026-06-17 by jonahsd_ · `ai-agents` `agent-loops` `youtube` `education`
+  _June 17, 2026 · [Videos](videos.md) · shared by jonahsd_
 - **[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)** — Foundational paper introducing ReAct prompting, combining reasoning traces with actions for tool-using language agents.  
-  _Shared 2026-06-17 by Bibby_ · `llm-agents` `react` `prompting` `research` `paper`
+  _June 17, 2026 · [Research Papers](research-papers.md) · shared by Bibby_
 - **[Loop Engineering Totally 10x Hermes agents](https://youtu.be/AQRDjI5owZI?si=kFbLfwWTdSiGu-sx)** — YouTube walkthrough on loop engineering for Hermes agents, useful for agent workflow design and automation practice.  
-  _Shared 2026-06-17 by jonahsd_ · `ai-agents` `hermes` `loop-engineering` `youtube` `education`
+  _June 17, 2026 · [Videos](videos.md) · shared by jonahsd_
 - **[Loop engineering for beginners](https://youtu.be/JoXbk2fm7jM?si=0D4laqn1q4cmQGMU)** — Beginner-friendly YouTube explainer on loop engineering, useful for understanding agent iteration workflows.  
-  _Shared 2026-06-17 by jonahsd_ · `ai-agents` `loop-engineering` `youtube` `education`
+  _June 17, 2026 · [Videos](videos.md) · shared by jonahsd_
 - **[Anime.js](https://animejs.com)** — Fast, lightweight JavaScript animation engine for animating webpage objects and interactive UI elements.  
-  _Shared 2026-06-16 by Bibby_ · `javascript` `animation` `frontend` `web-design` `creative-tools`
+  _June 16, 2026 · [Design & Frontend](design-frontend.md) · shared by Bibby_
 - **[Pliny tweet: Anthropic Fable-5 jailbreak claim](https://x.com/elder_plinius/status/2064776322979676227)** — X post claiming a jailbreak of Anthropic’s Fable-5 model, useful context for AI safety, model-release risk, and the linked Conversation analysis on the reported US access restriction.  
-  _Shared 2026-06-15 by Bibby_ · `ai-safety` `anthropic` `jailbreaks` `llm-security` `model-releases`
+  _June 15, 2026 · [Security](security.md) · shared by Bibby_
 - **[marketingskills](https://github.com/coreyhaines31/marketingskills)** — Claude Code/AI agent marketing skills library covering CRO, copywriting, SEO, analytics, and growth engineering for reusable marketing workflows.  
-  _Shared 2026-06-14 by shepardpower_ · `marketing` `ai-agents` `claude-code` `cro` `seo` `growth`
+  _June 14, 2026 · [Marketing](marketing.md) · shared by shepardpower_
 - **[10 Security Tools Every Vibe Coder Should Use](https://x.com/tolyadv/status/2066040470044651583?s=46&t=S6bS_CZIYDGLEWXWpy1JaA)** — X-linked article highlighting security tools and common vulnerability risks in vibe-coded projects.  
-  _Shared 2026-06-14 by jonahsd_ · `vibe-coding` `security` `developer-tools` `ai-coding`
+  _June 14, 2026 · [Security](security.md) · shared by jonahsd_
 
----
+## Categories
 
-Maintained by Vinicio. Source entries are mirrored from the Discord `#resources` channel.
+- [AI Agents](ai-agents.md) — **0** resources
+- [Coding Tools](coding-tools.md) — **0** resources
+- [Marketing](marketing.md) — **1** resource
+- [Design & Frontend](design-frontend.md) — **1** resource
+- [Security](security.md) — **2** resources
+- [Research Papers](research-papers.md) — **1** resource
+- [Videos](videos.md) — **3** resources
+
+## How resources move here
+
+Resources are captured from Discord, summarized, staged for approval, and only published after explicit human approval. Each approved resource is assigned one primary category and inserted newest-first.
